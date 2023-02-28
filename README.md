@@ -27,3 +27,16 @@
 </p>
 <p align="right"><img src="https://media.giphy.com/media/lr1QZ7prMwwkqSSVLa/giphy.gif" width="120px">
 </p>
+<hr>
+<h2>Links</h2>
+<h4 align="center">
+  
+  <a href="mailto:6ncafertasdelen@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black)</a>
+  <a href="https://www.linkedin.com/in/muhammed-ta%C5%9Fdelen-029170229/" target="_blank">![LinkedIn](https://img.shields.io/badge/Muhammed_Cafer_Tasdelen-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.instagram.com/mcafertasdelen/" target="_blank">![Instagram](https://img.shields.io/badge/mcafertasdelen-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black)</a>
+</h4>
+<hr>
+<p>
+  
+  ![](https://komarev.com/ghpvc/?username=MCTasdelen&color=orange&style=for-the-badge&label=Views)
+</p>
