@@ -6,7 +6,7 @@
 <hr>
  <h2><img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" width="25px"><i> Bio </i></h2>
 <br>
-<li> I am a third class  student  in Gazi University</li>
+<li>I graduated from Gazi University Computer Engineering</li>
 <li> I'm an avid Computer Scientist</li>
 <li>I'm interesing in AI and Computer Vision </li>
 <br>
